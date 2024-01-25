@@ -1,2 +1,8 @@
 <h1>Reconocimiento de pierna<h1>
 -Estado del proyecto v1 finalizada  
+
+-Funcionamiento 
+Este poryecto realiza el reconociemto de la pierna y 
+calcula el angulo entre las articulaciones.
+Mediante tres indicadores colocados en las articulación de la 
+cadera, rodilla y tobillo y mediante tencnicas de procesamiento de imagenes.
